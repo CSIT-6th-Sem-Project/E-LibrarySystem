@@ -1,0 +1,3 @@
+/packages
+/ElibraryManagementSys.sln
+/WebApplication1/Properties
